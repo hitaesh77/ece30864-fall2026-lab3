@@ -35,4 +35,20 @@ Sprint Retrospective Meetings:
 - An opportuntiy to reflect on the sprint, think about what went well, and what could be improved, and best next steps for moving forward
 
 
+Question 4: Epic vs Story vs Bug vs Task
 
+Epic:
+- A big goal or large body of work that will span many sprints
+- This larger goal or product gets broken down into stories, tasks, bugs, etc...
+
+Story:
+- A software requirement that is described concisely
+- It can usually be completed in one sprint, and pertains to a larger goal in an Epic
+
+Bug:
+- An error in a feature that needs to be fixed
+- Tracked so team is aware of current progress and blockers, and so team members know what might be broken or needs to be fixed
+
+Task:
+- A general piece of work that needs to be done 
+- In Jira, stories and tasks are of equal level, unless a story has specific subtasks connected to it 
