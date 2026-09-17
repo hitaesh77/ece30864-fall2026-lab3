@@ -8,6 +8,7 @@ Cons of Agile Development:
 - If user or stakeholder is not very active in the development, software may not turn out as expected
 - Low predictability in terms of budget and finalized timelines
 
+
 Question 2: Role and Responsibilities of Scrum Master vs Product Owner
 
 The Product Owner is the person who decides what to work on and why. 
@@ -17,3 +18,21 @@ The product owner is overall in charge of the product vision more.
 On the other hand, the Scrum Master is the one that helps the team work efficiently using agile methodologies. 
 They are in charge of the more scrum related tasks like JIRA tooling, sprint management, and ensuring teamamtes are able to meet properly.
 The scrum master is overall in charge of team efficiency.
+
+
+Question 3: 3 Types of Meetings during Sprint Cycle
+
+Sprint Planning Meetings:
+- Define what needs to be completed in the upcoming sprint
+- Formalize story points and assign stories to team
+
+Daily Standup Meetings:
+- An opportunity for team members to discuss work completed, work planned for the day, and any blockers
+- Usually a short meeting for progress updates, so if there is a discussion requiring more time, there is usually an opportuntiy here for round 2 discussions, or scheduling time for a formal meeting
+
+Sprint Retrospective Meetings:
+- An end of sprint meeting to talk about the work completed this sprint, and move incomplete items to the backlog
+- An opportuntiy to reflect on the sprint, think about what went well, and what could be improved, and best next steps for moving forward
+
+
+
